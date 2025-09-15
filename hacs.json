@@ -1,7 +1,7 @@
 {
-  "name": "FlippyWeather Clock Testing",
+  "name": "Weather Clock Card",
   "content_in_root": false,
-  "filename": "flippyweather-clock-testing.js",
+  "filename": "weather-clock-card.js",
   "country": ["ALL"],
   "homeassistant": "0.115.0",
   "render_readme": true,
